@@ -1,0 +1,67 @@
+
+*
+head{
+    display: none;
+}
+body{
+    font-family: Georgia,  serif;
+    font-weight: 400;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.5;
+    font-size: 1.3em;
+    text-align: center;
+    background: #c6d7c7;
+    color: #5a6f5c;
+}
+
+body li a {
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    display: block;
+    margin: 8px;
+}
+section{
+   width: 400px;
+   padding: 1em;
+   display: block;
+}
+img{
+    display: block;
+    width: 250px;
+    margin: 0 auto 1.5em auto;
+}
+h1{
+    font-family:  'Segoe UI', sans-serif;
+    font-size: 4.5em;
+    padding: 0;
+    font-style: normal;
+    margin: 0 0 20px 0;
+    line-height: 1;
+    font-weight: 300;
+    color:#b32b48;
+}
+h2{
+    font-family: adobe-caslon-pro, serif bold;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 1.5em;
+    display: block;
+    width: fit-content;
+}
+p{
+    font-family: 'Gill Sans', sans-serif;
+    display: block;
+    font-weight: 400;
+}
+a, a:link, a:visited{
+   color: inherit;
+   text-decoration: underline;
+}
